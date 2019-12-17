@@ -1,0 +1,35 @@
+Sample;Composite meter;Formation;Member;Section;meter;Lithology;cf. Bathyurus sp.;Pseudoolenoides ludificatus;Pseudoolenoides dilectus;Pseudoolenoides pogonipensis;Pseudomera barrandei ;Kanoshia sp.;Bathyurellus pogonipensis;Kanoshia kanoshensis;Shoshonorthis michaelis;Anomalorthis  lonensis;Anomalorthis utahensis;Desmorthis nevadensis;Hesperonomiella minor;cf. Wahwahlingula sp.;Receptaculites;Murchisonia sp. ;Malayispira sp.;leperditicopids;Lophospira perangulata
+FMN-1;70.5;Kanosh;Upper olive shale and calcarenite;FMN;59.4;Brachiopod Couqina;0;0;0;0;0;0;0;0;39;0;4;0;0;0;0;0;0;0;0
+FMN-2;69;Kanosh;Upper olive shale and calcarenite;FMN;57.6;Ostracod GS;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+FMN-3;35;Kanosh;Silty Limestone;FMN;24.4;bioclastic RS;0;0;0;0;5;0;1;0;18;3;21;0;0;0;0;0;0;0;0
+FMN-4;35.5;Kanosh;Silty Limestone;FMN;25.2;bioturbated GS;0;0;0;0;0;2;4;0;27;3;3;0;0;0;1;0;0;0;0
+FMN-5;36;Kanosh;Silty Limestone;FMN;26.1;bioclastic GS;0;0;0;0;0;0;0;4;9;0;3;0;0;0;0;0;0;0;0
+FMN-6;44;Kanosh;Silty Limestone;FMN;28.4;bioclastic RS;0;0;0;0;7;0;0;0;51;3;13;0;0;0;0;0;0;0;0
+FMN-7;46;Kanosh;Silty Limestone;FMN;32.5;sandy GS, bioturbated;0;0;0;0;0;0;1;0;0;0;3;0;0;0;0;0;3;0;0
+FMN-8;48;Kanosh;Upper olive shale and calcarenite;FMN;34.8;;0;0;0;9;0;0;4;0;1;1;0;0;0;1;0;0;0;0;0
+FMN-9;50;Kanosh;Upper olive shale and calcarenite;FMN;37;Ostracod GS;0;0;0;13;0;0;2;0;13;0;1;0;0;0;0;0;0;0;0
+FMN-10;51;Kanosh;Upper olive shale and calcarenite;FMN;38;;0;0;1;16;0;0;5;0;11;0;0;0;0;0;0;0;0;0;0
+FMN-11;73;Kanosh;Upper olive shale and calcarenite;FMN;62.5;Brachiopod Couqina;0;0;0;0;0;0;0;0;21;3;16;0;0;0;0;0;0;0;0
+FMN-12;76;Kanosh;Upper olive shale and calcarenite;FMN;65;;0;0;0;0;0;0;0;0;3;0;16;0;0;0;0;0;0;0;0
+FMN-13;85;Kanosh;Upper olive shale and calcarenite;FMN;74.8;?Hardground;0;0;0;0;0;0;0;0;3;2;12;0;0;0;0;0;0;0;0
+FMS-1;9.8;Kanosh;Lower olive shale and calcarenite;FMS;9.8;;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0
+FMS-2;11.2;Kanosh;Lower olive shale and calcarenite;FMS;11.2;bioclastic RS;0;0;0;0;2;0;0;17;14;10;5;0;0;0;0;0;0;0;0
+FMS-3;15.9;Kanosh;Lower olive shale and calcarenite;FMS;15.9;sandy Ostracod LS;0;0;0;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+FMS-4;24.5;Kanosh;Lower olive shale and calcarenite;FMS;24.5;bioclastic GS;0;0;0;0;5;0;0;0;14;4;0;0;0;0;0;0;0;0;0
+FMS-5;28;Kanosh;Lower olive shale and calcarenite;FMS;28;;0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0
+FMS-6;38.9;Kanosh;Silty Limestone;FMS;38.9;bioturbated GS;0;0;0;0;1;0;2;0;29;15;0;0;0;0;0;0;0;0;0
+FMS-7;41.5;Kanosh;Silty Limestone;FMS;41.5;bioturbated bioclastic GS;0;0;0;0;0;0;0;3;20;0;2;0;0;0;0;0;0;0;0
+FMS-10;86;Kanosh;Sandstone and Shale;FMS;86;;0;3;0;0;0;0;0;0;44;2;3;0;0;0;0;0;0;0;0
+FMS-12;104.4;Kanosh;Sandstone and Shale;FMS;104.4;sandy Grainstone;0;0;0;0;0;0;0;0;47;3;0;0;0;0;0;0;0;0;0
+FMS-13;109;Kanosh;Sandstone and Shale;FMS;109;sandy Grainstone;0;0;0;0;18;0;0;0;10;0;1;0;0;0;0;0;0;0;0
+FM-K-01;2.6;Kanosh;Lower olive shale and calcarenite;FMS;2.6;;0;0;0;0;0;0;0;1;6;4;0;0;0;0;0;0;0;0;0
+FMS sst;90.2;Kanosh;Sandstone and Shale;FMS;90.2;;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0
+CYP-5;80;Kanosh;Upper olive shale and calcarenite;CYP;30;Brachiopod Couqina;0;0;0;0;0;0;0;0;0;0;8;5;0;0;0;0;0;0;0
+CYP-6;119;Kanosh;Calcisiltite;CYP;69.9;Grainstone;0;0;0;0;0;0;0;0;12;0;1;6;0;0;0;0;0;0;0
+CYP-7;121.5;Kanosh;Calcisiltite;CYP;72;;0;0;0;0;0;0;0;0;5;0;0;3;0;0;0;0;0;0;0
+CYP-8;124;Kanosh;Calcisiltite;CYP;75;;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;35;0;0;0
+CYP-9;126;Kanosh;Calcisiltite;CYP;77;Bioclastic GS;0;0;0;0;0;0;0;0;6;0;2;8;0;0;0;0;3;0;0
+CYP-10;135;Kanosh;Calcisiltite;CYP;90.2;;0;0;0;0;0;0;0;0;22;0;1;18;2;0;0;0;0;0;0
+FMN-24;161;Lehman;Lehman;FMN;161;;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;100;0
+FMN-26;167.8;Lehman;Lehman;FMN;167.8;;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;200;0
+FMN-25;188.4;Lehman;Lehman;FMN;188.4;;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;200;1
